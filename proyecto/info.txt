@@ -1,0 +1,1 @@
+Carpeta en la que se almacenará el trabajo relativo a la implementacion del proyecto
